@@ -1,0 +1,11 @@
+patient_id,name,age,gender,cancer_type,histology,stage,biomarker,treatment_intent,regimen_sequence,cycle_number,last_cycle_date,frequency_days,lab_status,pap_status,chair_hours,ward_assigned
+P001,Asha Reddy,49,Female,Breast,Invasive ductal carcinoma,II,HER2 negative,Curative,AC->Paclitaxel,2,2026-04-12,21,Pending,Pending,2,Ward A
+P002,Ravi Kumar,58,Male,DLBCL,Diffuse large B-cell lymphoma,III,CD20 positive,Curative,R-CHOP,3,2026-04-10,21,Ready,Ready,5,Ward B
+P003,Meena Shah,62,Female,Colorectal,Adenocarcinoma,III,Unknown,Adjuvant,FOLFOX,1,2026-04-17,14,Pending,Ready,4,Ward C
+P004,Suresh Patel,64,Male,Lung,Adenocarcinoma,IV,EGFR mutated,Palliative,Osimertinib,5,2026-04-01,28,Ready,Ready,1,Daycare 2
+P005,Kavya Rao,31,Female,Hodgkin lymphoma,Nodular sclerosis,II,Unknown,Curative,ABVD,4,2026-04-05,28,Ready,Pending,3,Ward A
+P006,Arjun Menon,55,Male,Head and Neck,Squamous cell carcinoma,IVA,Unknown,Curative,Cisplatin + RT,2,2026-04-15,7,Pending,Pending,3,Ward D
+P007,Lakshmi Iyer,47,Female,Ovary,High-grade serous carcinoma,III,Unknown,Adjuvant,Carboplatin + Paclitaxel,2,2026-04-08,21,Ready,Ready,4,Ward C
+P008,Naveen Reddy,66,Male,Prostate,Adenocarcinoma,IV,Unknown,Palliative,Docetaxel + ADT,4,2026-04-03,21,Ready,Ready,3,Ward B
+P009,Farah Khan,39,Female,Breast,Invasive ductal carcinoma,III,HER2 positive,Neoadjuvant,AC -> THP -> Trastuzumab maintenance,5,2026-04-16,21,Pending,Pending,6,Ward A
+P010,Joseph Mathew,51,Male,Multiple myeloma,Plasma cell neoplasm,III,Unknown,Curative,VRd,3,2026-04-11,21,Ready,Pending,4,Daycare 1
