@@ -6,7 +6,6 @@ The Oncology Workflow Intelligence Platform is an AI-assisted oncology workflow 
 
 This project was inspired by real world challenges observed during clinical oncology practice and explores how data-driven systems can improve cancer care coordination while preserving clinician led decision making.
 
----
 
 ## Clinical Problem
 
